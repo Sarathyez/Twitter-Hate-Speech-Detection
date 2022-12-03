@@ -1,0 +1,7 @@
+div.php-email-form.error-message {
+    font-size: 0;
+    background: green;
+}
+.get-started.php-email-form .error-message {
+    background: green;
+}
